@@ -78,12 +78,18 @@ Output #0, mp4, to 'IMG_0730.mp4':
       creation_time   : 2017-02-24T06:01:07.000000Z
       handler_name    : Core Media Data Handler
       encoder         : Lavc57.89.100 aac
-frame=  258 fps=0.0 q=-1.0 size=   16316kB time=00:00:09.54 bitrate=14005.5kbitsframe=  495 fps=495 q=-1.0 size=   31117kB time=00:00:17.43 bitrate=14617.8kbits
-frame=  748 fps=498 q=-1.0 size=   46749kB time=00:00:25.89 bitrate=14791.9kbitsframe=  957 fps=478 q=-1.0 size=   60074kB time=00:00:32.85 bitrate=14978.1kbits
-frame= 1208 fps=483 q=-1.0 size=   75973kB time=00:00:41.23 bitrate=15092.0kbitsframe= 1447 fps=482 q=-1.0 size=   90619kB time=00:00:49.20 bitrate=15087.4kbits
-frame= 1691 fps=483 q=-1.0 size=  105724kB time=00:00:57.30 bitrate=15113.2kbitsframe= 1957 fps=489 q=-1.0 size=  122968kB time=00:01:06.15 bitrate=15227.4kbits
-frame= 2223 fps=494 q=-1.0 size=  139692kB time=00:01:15.07 bitrate=15243.8kbitsframe= 2467 fps=493 q=-1.0 size=  155098kB time=00:01:23.19 bitrate=15271.7kbits
-frame= 2728 fps=496 q=-1.0 size=  171615kB time=00:01:31.85 bitrate=15304.8kbitsframe= 2968 fps=494 q=-1.0 size=  186910kB time=00:01:39.89 bitrate=15328.2kbits
+frame=  258 fps=0.0 q=-1.0 size=   16316kB time=00:00:09.54 bitrate=14005.5kbits
+frame=  495 fps=495 q=-1.0 size=   31117kB time=00:00:17.43 bitrate=14617.8kbits
+frame=  748 fps=498 q=-1.0 size=   46749kB time=00:00:25.89 bitrate=14791.9kbits
+frame=  957 fps=478 q=-1.0 size=   60074kB time=00:00:32.85 bitrate=14978.1kbits
+frame= 1208 fps=483 q=-1.0 size=   75973kB time=00:00:41.23 bitrate=15092.0kbits
+frame= 1447 fps=482 q=-1.0 size=   90619kB time=00:00:49.20 bitrate=15087.4kbits
+frame= 1691 fps=483 q=-1.0 size=  105724kB time=00:00:57.30 bitrate=15113.2kbits
+frame= 1957 fps=489 q=-1.0 size=  122968kB time=00:01:06.15 bitrate=15227.4kbits
+frame= 2223 fps=494 q=-1.0 size=  139692kB time=00:01:15.07 bitrate=15243.8kbits
+frame= 2467 fps=493 q=-1.0 size=  155098kB time=00:01:23.19 bitrate=15271.7kbits
+frame= 2728 fps=496 q=-1.0 size=  171615kB time=00:01:31.85 bitrate=15304.8kbits
+frame= 2968 fps=494 q=-1.0 size=  186910kB time=00:01:39.89 bitrate=15328.2kbits
 frame= 3091 fps=491 q=-1.0 Lsize=  194943kB time=00:01:43.05 bitrate=15497.1kbits/s speed=16.4x    
 video:193982kB audio:874kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.044615%
 [aac @ 0x10280d200] Qavg: 252.241
